@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I Developed a comprehensive Excel,Tableau and Power BI analytical dashboards to evaluate customer demographics, loan disbursement patterns, and repayment performance for a retail banking portfolio. The project focused on identifying high-value customers, tracking non-performing loans (NPLs), and analyzing key financial KPIs to support data-driven decision-making.
+# Banking Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
+
+## Project Objective
+To analyze and visualize banking data using Excel, Power BI, and Tableau to identify key performance trends, improve loan tracking, and support strategic, data-driven decisions.
