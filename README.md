@@ -1,4 +1,4 @@
-<img width="1424" height="70" alt="image" src="https://github.com/user-attachments/assets/f140bfa8-9ad0-43ab-b1ea-1cc785f1f102" /># Banking Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
+# Banking Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
 
 ## Project Objective
 To analyze and visualize banking data using Excel, Power BI, and Tableau to identify key performance trends, improve loan tracking, and support strategic, data-driven decisions.
