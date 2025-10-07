@@ -46,7 +46,7 @@ Target High-Performing Segments: Focus on Home Loans and the 26–35 age group, 
 
 
 ## Final Conclusion
--The Loan Analytics Dashboard provides a complete overview of the bank’s lending ecosystem, covering funding, collection, interest, and repayment trends.It identifies profitable segments like Home Loans and the 26–35 age group, along with top-performing states such as Uttar Pradesh and Punjab.However, it also reveals operational risks such as a high delinquent loan rate (10.84%).The Transaction Dashboard offers real-time visibility into cash flows, channel mix, and branch activity.With method distribution, monthly trends, and bank-level volumes all in one place, it empowers fraud detection and operational tuning.
+The Loan Analytics Dashboard provides a complete overview of the bank’s lending ecosystem, covering funding, collection, interest, and repayment trends.It identifies profitable segments like Home Loans and the 26–35 age group, along with top-performing states such as Uttar Pradesh and Punjab.However, it also reveals operational risks such as a high delinquent loan rate (10.84%).The Transaction Dashboard offers real-time visibility into cash flows, channel mix, and branch activity.With method distribution, monthly trends, and bank-level volumes all in one place, it empowers fraud detection and operational tuning.
 
 
 
